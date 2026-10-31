@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+ <property name="name">14-K-24H</property>
+ <property name="timestampformat">!%Y-%m-%d_%H-%M-%S</property>
+ <property name="prefix">FX10_</property>
+ <property name="countervalue">0000</property>
+ <property name="timestamp">2024-07-12_11-09-38</property>
+ <property name="namingformat">prefix_name</property>
+</properties>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+ <property name="prefix">SWIR_</property>
+ <property name="timestamp">2024-05-31_07-30-07</property>
+ <property name="timestampformat">!%Y-%m-%d_%H-%M-%S</property>
+ <property name="namingformat">prefix_name</property>
+ <property name="countervalue">0000</property>
+ <property name="name">1-C-24H</property>
+</properties>
